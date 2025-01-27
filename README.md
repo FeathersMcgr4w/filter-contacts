@@ -1,4 +1,4 @@
-# Filter customers data from page
+# Filter customers data from web page
 
 Bash script to automate the extraction and filtering of customer data (name, lastname, phone, email, website) from html pages.
 
